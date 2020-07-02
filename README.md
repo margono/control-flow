@@ -7,3 +7,7 @@
 	- For in loop
 	- While loop
 	- Repeat while loop
+3.	Control Statement
+	- continue
+	- break
+	- fallthrough
